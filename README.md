@@ -26,6 +26,23 @@ An end-to-end Machine Learning project that predicts the risk of heart disease u
 - SHAP
 - Streamlit
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/homepage.png)
+
+### Input Form
+![Input Form](screenshots/homepage2.png)
+
+### Prediction Result
+![Prediction Result](screenshots/prediction.png)
+
+### SHAP Feature Importance
+![SHAP Explanation](screenshots/shap_summary.png)
+
+### Feature Importance
+![Feature Importance](screenshots/feature_importance.png)
+
 ## Results
 
 | Model | Accuracy |
